@@ -1,6 +1,6 @@
 # DIO Java Course Exercise: Scanner
 
-This repository is dedicated to submitting the **[Sintax Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
+This project is dedicated to submitting the **[Sintax Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
 
 ## 📌 Challenge Description
 
