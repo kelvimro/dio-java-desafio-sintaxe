@@ -22,7 +22,7 @@ public class ContaTerminal {
             this.balance = balance;
         }
 
-        // Method to print the account data whet it is created
+        // Method to print the account data
         public void accountReview() {
             System.out.println("Olá " + clientName
                     + ", obrigado por criar sua conta em nosso banco, sua agencia é "
