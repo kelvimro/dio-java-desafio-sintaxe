@@ -21,7 +21,7 @@ Use and study about Scanner class
 Clone this repository:
 
 ```sh
-git clone https://github.com/seu-usuario/ContaBanco.git
+git clone https://github.com/kelvimro/dio-java-desafio-sintaxe.git
 cd ContaBanco
 ```
 
